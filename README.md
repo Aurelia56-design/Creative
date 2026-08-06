@@ -4,7 +4,7 @@
 
 Annotators burn hours re-reading dense guideline docs and pinging SMEs with the same recurring questions. Guideline Creative fixes that: point it at any guideline document and it answers questions with citations back to the exact source passages — with quiz and coaching modes built in to help annotators prep for certification assessments.
 
-Born out of a pain point lived firsthand for 2+ years working QA/SME roles on AI training-data projects.
+Born out of a pain point lived firsthand for 5+ years working QA/SME roles on AI training-data projects.
 
 ---
 
